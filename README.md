@@ -15,9 +15,7 @@
   <td width="50%" valign="top">
 
 ### Languages 
-    
-    ![Python](https://img.shields.io/badge/Python-%7C-green)
-    ![SQL](https://img.shields.io/badge/SQL-%7C-lightgrey)
+    ![Python](https://img.shields.io/badge/Python-%7C-green)![SQL](https://img.shields.io/badge/SQL-%7C-lightgrey)
     ![SPARQL](https://img.shields.io/badge/SPARQL-%7B%7D-blue)
     ![RDF](https://img.shields.io/badge/RDF-%3C%2F%3E-blue)
     ![OWL](https://img.shields.io/badge/OWL-%3C%2F%3E-blue)
