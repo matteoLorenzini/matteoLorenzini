@@ -14,5 +14,4 @@
   <tr>
   <td width="50%" valign="top">
 
-### Languages 
-    ![Python](https://img.shields.io/badge/Python-%7C-green)
+
