@@ -15,4 +15,4 @@
   <td width="50%" valign="top">
 
 
-https://img.shields.io/badge/SQL-%7C-lightgrey
+[![Python - .py](https://img.shields.io/badge/Python-.py-2ea44f)](https://)
