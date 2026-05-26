@@ -50,6 +50,4 @@
 ![Information Extraction](https://img.shields.io/badge/Information%20Extraction-2ea44f?style=for-the-badge)
 ![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-2ea44f?style=for-the-badge)
 
-## Connect
 
-- Add your preferred contact links here (LinkedIn, website, email).
