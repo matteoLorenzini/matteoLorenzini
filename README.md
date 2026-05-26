@@ -1,6 +1,4 @@
 
-# Hi, I'm Matteo
-
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="380">
 </p>
@@ -16,7 +14,7 @@
 
 | Stats | Streak |
 | --- | --- |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=matteoLorenzini&show_icons=true&locale=en) | ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=matteoLorenzini) |
+| ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matteoLorenzini&theme=default) | ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=matteoLorenzini) |
 
 ## Tech Stack
 
