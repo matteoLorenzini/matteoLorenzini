@@ -1,25 +1,57 @@
 
+# Hi, I'm Matteo
 
 <p align="center">
-<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="380">
 </p>
 
+## About Me
 
+- Interested in data-driven systems, semantic technologies, and practical machine learning.
+- I enjoy building solutions at the intersection of NLP, knowledge graphs, and analytics.
+- Focused on clean, reproducible workflows for research and production.
+- Building LLM-powered workflows for information extraction, semantic enrichment, and question answering.
 
-|                                                                                                           |                                                                                      |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![Github stats](https://github-readme-stats.vercel.app/api?username=matteoLorenzini&show_icons=true&locale=en) | ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=matteoLorenzini&) |
+## GitHub Stats
 
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
+| Stats | Streak |
+| --- | --- |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=matteoLorenzini&show_icons=true&locale=en) | ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=matteoLorenzini) |
 
-## Languages
-[![Python - .py](https://img.shields.io/badge/Python-.py-2ea44f)](https://) [![SPARQL - .sparql](https://img.shields.io/badge/SPARQL-.sparql-blue)](https://) [![XML - .xml](https://img.shields.io/badge/XML-.xml-blue)](https://) [![RDF - .rdf](https://img.shields.io/badge/RDF-.rdf-blue)](https://) [![OWL - .owl](https://img.shields.io/badge/OWL-.owl-blue)](https://) [![SQL - .sql](https://img.shields.io/badge/SQL-.sql-orange)](https://)
+## Tech Stack
 
-## Tools
-[![Scikit-Learn - |](https://img.shields.io/badge/Scikit--Learn-|-2ea44f)](https://) [![FastText - |](https://img.shields.io/badge/FastText-|-2ea44f)](https://) [![Pandas - |](https://img.shields.io/badge/Pandas-|-2ea44f)](https://)
-[![Virtuoso - |](https://img.shields.io/badge/Virtuoso-|-blue)](https://) [![Blazegraph - |](https://img.shields.io/badge/Blazegraph-|-blue)](https://) [![MySQL - |](https://img.shields.io/badge/MySQL-|-orange)](https://) [![Docker - |](https://img.shields.io/badge/Docker-|-green)](https://) 
+### Languages
+![Python](https://img.shields.io/badge/Python-2ea44f?style=for-the-badge)
+![SPARQL](https://img.shields.io/badge/SPARQL-blue?style=for-the-badge)
+![XML](https://img.shields.io/badge/XML-blue?style=for-the-badge)
+![RDF](https://img.shields.io/badge/RDF-blue?style=for-the-badge)
+![OWL](https://img.shields.io/badge/OWL-blue?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge)
 
-## Skills
-[![Machine Learning - |](https://img.shields.io/badge/Machine_Learning-|-2ea44f)](https://) [![NLP - |](https://img.shields.io/badge/NLP-|-2ea44f)](https://) [![Data Science - |](https://img.shields.io/badge/Data_Science-|-2ea44f)](https://) [![Semantic Web - |](https://img.shields.io/badge/Semantic_Web-|-blue)](https://)
+### Tools
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-2ea44f?style=for-the-badge)
+![FastText](https://img.shields.io/badge/FastText-2ea44f?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-2ea44f?style=for-the-badge)
+![Virtuoso](https://img.shields.io/badge/Virtuoso-blue?style=for-the-badge)
+![Blazegraph](https://img.shields.io/badge/Blazegraph-blue?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-orange?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-green?style=for-the-badge)
+![ResearchSpace](https://img.shields.io/badge/ResearchSpace-blue?style=for-the-badge)
+
+### Focus Areas
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2ea44f?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-2ea44f?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-2ea44f?style=for-the-badge)
+![Semantic Web](https://img.shields.io/badge/Semantic%20Web-blue?style=for-the-badge)
+
+### LLM Competencies
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-2ea44f?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-2ea44f?style=for-the-badge)
+![Knowledge Graph + LLM](https://img.shields.io/badge/Knowledge%20Graph%20%2B%20LLM-blue?style=for-the-badge)
+![Information Extraction](https://img.shields.io/badge/Information%20Extraction-2ea44f?style=for-the-badge)
+![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-2ea44f?style=for-the-badge)
+
+## Connect
+
+- Add your preferred contact links here (LinkedIn, website, email).
